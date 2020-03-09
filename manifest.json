@@ -1,0 +1,21 @@
+{
+    "name": "Software Development Section",
+    "short_name": "SDS",
+    "orientation": "portrait-primary",
+    "display": "standalone",
+    "background_color": "#ee6352",
+    "theme_color": "#000",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/img/src_SDS.png",
+            "types": "img/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/src_SDS.png",
+            "types": "img/png",
+            "sizes": "512x512"
+        }
+    ]
+}
